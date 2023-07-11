@@ -7,7 +7,7 @@ I have created a simple quiz app to demonstrate the beginner level skills in HTM
 
 <p>Below is an image of my quiz application </p>
 
-< img src = "Screenshot (32).png" alt = "screenshotproject" >
+< img src = "Screenshot(32).png" alt = "screenshotproject" >
 
 </body>
 </html>
